@@ -1,0 +1,26 @@
+{
+  "name": "popmotion.doc",
+  "version": "1.0.0",
+  "description": "popmotion 中文文档",
+  "main": "index.js",
+  "scripts": {
+    "doc:dev": "vuepress dev docs",
+    "doc:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellykaiser/popmotion.doc.git"
+  },
+  "keywords": [
+    "popmotion"
+  ],
+  "author": "kaiser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jellykaiser/popmotion.doc/issues"
+  },
+  "homepage": "https://github.com/jellykaiser/popmotion.doc#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  }
+}
