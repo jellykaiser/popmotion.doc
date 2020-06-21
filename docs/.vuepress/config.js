@@ -1,5 +1,6 @@
 module.exports = {
   title: 'popmotion 中文文档',
+  base: '/popmotion.doc/',
   themeConfig: {
     sidebar: [
       '/',
